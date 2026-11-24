@@ -1,0 +1,12 @@
+editor-title: '&6Editar %item%'
+main-title: '&6Misión de pesca'
+trade-title: '&6Pescador'
+size: 27
+slots:
+  espada: 11
+  pezglobo: 13
+  caña: 15
+labels:
+  espada: '&6Espada pez'
+  pezglobo: '&bPez globo mágico'
+  caña: '&dCaña mágica'

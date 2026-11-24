@@ -1,0 +1,17 @@
+intro:
+  - '&e¡Bienvenido a BastionMC!'
+  - '&fYo soy un pescador y tengo una &6&lESPADA PEZ &fque me regaló mi papá antes de morir.'
+  - '&fSi me ayudas a conseguir %required% peces globo mágicos te la regalo.'
+progress:
+  - '&c&lMISIÓN DE ESPADA PEZ'
+  - '&c%progress% / %required%, Peces Globo Mágicos'
+completed: '&a¡Misión completada! Has recibido la ESPADA PEZ.'
+already: '&eYa completaste esta misión.'
+full: '&cLibera espacio para recibir tu premio.'
+saved: '&aGuardado correctamente.'
+error: '&cNo se pudo completar la acción. Revisa la consola.'
+denied: '&cNo tienes permiso.'
+help: '&e/misionpesca menu [espada|pezglobo|caña] | npc [crear|tp|center|sit|normal|eliminar] | reload | progreso <jugador> | reset <jugador> | resetall confirmar'
+select: '&eHaz clic sobre un objeto de tu inventario para copiarlo.'
+missing: '&cPrimero crea el pescador.'
+confirm: '&cPara borrar el progreso de todos: /misionpesca resetall confirmar'

@@ -1,0 +1,6 @@
+mission-id: espada-pez-1
+required-fish: 500
+chance: 33.0
+replacement-cost: 20
+replace-vanilla-catch: true
+interaction-distance: 6

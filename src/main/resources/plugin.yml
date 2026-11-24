@@ -1,0 +1,11 @@
+name: BastionMCMissions
+version: 1.0.0
+main: mc.bastion.missions.Missions
+api-version: '1.21'
+depend: [FancyNpcs]
+commands:
+  misionpesca:
+    permission: bastionmissions.admin
+permissions:
+  bastionmissions.admin:
+    default: op

@@ -1,0 +1,6 @@
+name: bastion_pescador
+skin: pescador.png
+display-name: '@none'
+hand: FISHING_ROD
+pose: standing
+# FancyNpcs guarda la ubicación y orientación en sus propios datos.
